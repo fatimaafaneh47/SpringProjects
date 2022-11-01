@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+.date{
+	
+	color:blue;
+	margin-left:40%;
+}
+.time{
+	color:green;
+	margin-left:50%;
+}
+.index{
+	margin-left:50%;
+	margin-top:10%;
+}
