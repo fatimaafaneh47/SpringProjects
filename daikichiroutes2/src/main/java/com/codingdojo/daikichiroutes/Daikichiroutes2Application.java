@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 @RestController
 
+
 public class Daikichiroutes2Application {
 
 	public static void main(String[] args) {
