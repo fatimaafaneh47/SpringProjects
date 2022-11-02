@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+.form{
+	margin-left:30%;
+	border:2px solid black;
+	width:30%;
+	padding:1%;
+	text-align:center;
+}
+.title{
+	margin-left:38%;
+}
+button{
+	color:white;
+	background-color:#597EAA;
+}
+.show{
+	width:60%;
+	margin-left:20%;
+	height:60%;
+	border:2px solid black;
+	background-color:#9FC5F8;
+	font-size:30px;
+
+}
+.link{
+	margin-left:40%;
+	margin-top:5%;
+}
+.showtitle{
+	margin-left:40%;
+
+}
